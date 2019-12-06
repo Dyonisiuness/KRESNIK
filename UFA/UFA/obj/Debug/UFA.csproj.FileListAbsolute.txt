@@ -1,0 +1,10 @@
+Z:\Бранов\UFA\UFA\bin\Debug\UFA.exe.config
+Z:\Бранов\UFA\UFA\bin\Debug\UFA.exe
+Z:\Бранов\UFA\UFA\bin\Debug\UFA.pdb
+Z:\Бранов\UFA\UFA\obj\Debug\UFA.csprojAssemblyReference.cache
+Z:\Бранов\UFA\UFA\obj\Debug\UFA.Form1.resources
+Z:\Бранов\UFA\UFA\obj\Debug\UFA.Properties.Resources.resources
+Z:\Бранов\UFA\UFA\obj\Debug\UFA.csproj.GenerateResource.cache
+Z:\Бранов\UFA\UFA\obj\Debug\UFA.csproj.CoreCompileInputs.cache
+Z:\Бранов\UFA\UFA\obj\Debug\UFA.exe
+Z:\Бранов\UFA\UFA\obj\Debug\UFA.pdb
